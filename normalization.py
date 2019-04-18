@@ -18,5 +18,6 @@ def main(test):
 #TODO: max and min to normarize
 
 
+
 if __name__ == "__main__":
     main(test)
